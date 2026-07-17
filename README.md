@@ -6,9 +6,9 @@ The files are named to match Home Assistant’s standardized weather condition v
 
 ## Features
 
-- 32×32 pixel canvas
+- 32×32 pixels
 - Transparent background
-- Animated GIF format
+- Animated GIF format (/gifs) or static single frames (/static)
 - Home Assistant-compatible filenames
 - Optimized for small, low-resolution displays
 - Includes common daytime, nighttime, precipitation, wind, snow, fog, and storm conditions
